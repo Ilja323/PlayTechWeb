@@ -21,7 +21,7 @@ public class Bonus {
     }
 
     @Test
-    public void testGlobalPresence() {
+    public void bonus() {
         // Step 1: Open the webpage
         driver.get("https://www.playtech.ee");
 
